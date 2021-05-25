@@ -1,0 +1,13 @@
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\bin\Debug\netcoreapp3.1\WallpaperChanger.exe
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\bin\Debug\netcoreapp3.1\WallpaperChanger.deps.json
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\bin\Debug\netcoreapp3.1\WallpaperChanger.runtimeconfig.json
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\bin\Debug\netcoreapp3.1\WallpaperChanger.runtimeconfig.dev.json
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\bin\Debug\netcoreapp3.1\WallpaperChanger.dll
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\bin\Debug\netcoreapp3.1\WallpaperChanger.pdb
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\obj\Debug\netcoreapp3.1\WallpaperChanger.csprojAssemblyReference.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\obj\Debug\netcoreapp3.1\WallpaperChanger.AssemblyInfoInputs.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\obj\Debug\netcoreapp3.1\WallpaperChanger.AssemblyInfo.cs
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\obj\Debug\netcoreapp3.1\WallpaperChanger.csproj.CoreCompileInputs.cache
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\obj\Debug\netcoreapp3.1\WallpaperChanger.dll
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\obj\Debug\netcoreapp3.1\WallpaperChanger.pdb
+E:\Document\Year3\HKII\Malware\Lab\Lab2\WallpaperChanger\WallpaperChanger\obj\Debug\netcoreapp3.1\WallpaperChanger.genruntimeconfig.cache
